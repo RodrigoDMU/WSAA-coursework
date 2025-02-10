@@ -1,0 +1,7 @@
+TrainStatus	TrainLatitude	TrainLongitude	TrainCode	TrainDate	PublicMessage	Direction
+N	53.3831	-6.4242	D334	10 Feb 2025	D334\nClonsilla to M3 Parkway\nExpected Departure 23:57	Northbound
+R	0	0	D426	10 Feb 2025	D426\n23:30 - Grand Canal Dock to Hazelhatch (-4 mins late)\nArrived Inchicore Advance Starter next stop Park West and Cherry Orchard	Southbound
+R	53.2469	-6.66386	D226	10 Feb 2025	D226\n23:10 - Dublin Heuston to Kildare (4 mins late)\nDeparted Sallins next stop Newbridge	To Kildare
+R	53.3433	-6.24829	D841	10 Feb 2025	D841\n23:40 - Grand Canal Dock to Dundalk (11 mins late)\nArrived Dublin Pearse next stop Tara Street	To Dundalk
+R	53.3776	-6.39072	D940	10 Feb 2025	D940\n23:18 - Grand Canal Dock to Maynooth (0 mins late)\nDeparted Coolmine next stop Clonsilla	To Maynooth
+R	53.6794	-6.24253	D839	10 Feb 2025	D839\n22:47 - Grand Canal Dock to Dundalk (-1 mins late)\nArrived Laytown next stop Drogheda	To Dundalk
