@@ -1,7 +1,22 @@
 TrainStatus	TrainLatitude	TrainLongitude	TrainCode	TrainDate	PublicMessage	Direction
-N	53.3831	-6.4242	D334	10 Feb 2025	D334\nClonsilla to M3 Parkway\nExpected Departure 23:57	Northbound
-R	0	0	D426	10 Feb 2025	D426\n23:30 - Grand Canal Dock to Hazelhatch (-4 mins late)\nArrived Inchicore Advance Starter next stop Park West and Cherry Orchard	Southbound
-R	53.2469	-6.66386	D226	10 Feb 2025	D226\n23:10 - Dublin Heuston to Kildare (4 mins late)\nDeparted Sallins next stop Newbridge	To Kildare
-R	53.3433	-6.24829	D841	10 Feb 2025	D841\n23:40 - Grand Canal Dock to Dundalk (11 mins late)\nArrived Dublin Pearse next stop Tara Street	To Dundalk
-R	53.3776	-6.39072	D940	10 Feb 2025	D940\n23:18 - Grand Canal Dock to Maynooth (0 mins late)\nDeparted Coolmine next stop Clonsilla	To Maynooth
-R	53.6794	-6.24253	D839	10 Feb 2025	D839\n22:47 - Grand Canal Dock to Dundalk (-1 mins late)\nArrived Laytown next stop Drogheda	To Dundalk
+N	51.9018	-8.4582	D532	11 Feb 2025	D532\nCork to Cobh\nExpected Departure 18:30	To Cobh
+N	51.9018	-8.4582	D576	11 Feb 2025	D576\nCork to Midleton\nExpected Departure 18:45	To Midleton
+N	53.3397	-6.23773	D420	11 Feb 2025	D420\nGrand Canal Dock to Hazelhatch\nExpected Departure 18:40	Southbound
+N	53.3531	-6.24591	D931	11 Feb 2025	D931\nDublin Connolly to Maynooth\nExpected Departure 18:45	Northbound
+R	0	0	D533	11 Feb 2025	D533\n18:25 - Mallow to Cork (1 mins late)\nDeparted Killarney Junction next stop Cork	To Cork
+R	53.1454	-7.06361	D218	11 Feb 2025	D218\n17:27 - Dublin Heuston to Portlaoise (11 mins late)\nDeparted Monasterevin next stop Portarlington	To Portlaoise
+R	53.2469	-6.66386	D417	11 Feb 2025	D417\n17:29 - Grand Canal Dock to Newbridge (2 mins late)\nDeparted Sallins next stop Newbridge	Southbound
+R	53.3223	-6.52356	D219	11 Feb 2025	D219\n18:05 - Dublin Heuston to Portlaoise (0 mins late)\nDeparted Hazelhatch next stop Sallins	To Portlaoise
+R	53.3334	-6.40628	D418	11 Feb 2025	D418\n18:10 - Dublin Connolly to Hazelhatch (0 mins late)\nDeparted Clondalkin next stop Kishoge	To Hazelhatch
+R	53.334	-6.37868	D220	11 Feb 2025	D220\n18:25 - Dublin Heuston to Portlaoise (0 mins late)\nArrived Park West and Cherry Orchard next stop Clondalkin	To Portlaoise
+R	53.3509	-6.23929	D323	11 Feb 2025	D323\n18:27 - Docklands to M3 Parkway (7 mins late)\nDeparted Docklands next stop Broombridge	Northbound
+R	53.3632	-6.25908	D929	11 Feb 2025	D929\n17:30 - Bray to Maynooth (8 mins late)\nDeparted Drumcondra next stop Broombridge	Northbound
+R	53.3743	-6.48624	D928	11 Feb 2025	D928\n18:00 - Dublin Connolly to Maynooth (3 mins late)\nArrived Leixlip (Confey) next stop Leixlip (Louisa Bridge)	Northbound
+R	53.3816	-6.37149	D930	11 Feb 2025	D930\n18:16 - Dublin Connolly to Longford (6 mins late)\nArrived Castleknock next stop Maynooth	Northbound
+R	53.4157	-6.83395	D925	11 Feb 2025	D925\n17:09 - Grand Canal Dock to Longford (10 mins late)\nDeparted Enfield next stop Mullingar	To Longford
+R	53.4175	-6.46483	D322	11 Feb 2025	D322\n17:55 - Docklands to M3 Parkway (8 mins late)\nDeparted Dunboyne next stop M3 Parkway	Northbound
+R	53.4509	-6.15649	D828	11 Feb 2025	D828\n17:59 - Grand Canal Dock to Dundalk (4 mins late)\nDeparted Malahide next stop Donabate	To Dundalk
+R	53.6118	-6.18226	D827	11 Feb 2025	D827\n17:53 - Dublin Connolly to Drogheda (1 mins late)\nArrived Balbriggan next stop Gormanston	Northbound
+R	53.6794	-6.24253	D826	11 Feb 2025	D826\n16:40 - Bray to Drogheda (14 mins late)\nDeparted Laytown next stop Drogheda	Northbound
+R	53.712	-6.33538	D825	11 Feb 2025	D825\n16:40 - Dun Laoghaire to Dundalk (5 mins late)\nDeparted Drogheda next stop Dundalk	To Dundalk
+T	53.378	-6.58993	D927	11 Feb 2025	D927\n17:39 - Grand Canal Dock to Maynooth(0 mins late)\nTERMINATED Maynooth at 18:33	To Maynooth
