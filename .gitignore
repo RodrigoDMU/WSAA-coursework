@@ -166,6 +166,7 @@ cython_debug/
 
 # API Key file
 config.py
+config2.py
 
 ## Mac_OS Git_Ignore
 
