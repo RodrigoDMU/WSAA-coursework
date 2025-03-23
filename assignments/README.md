@@ -3,7 +3,7 @@
 
 ## Web Services and Applications Module
 
-![Programming](images/img_programming.jpeg)
+![Programming](WSAA-coursework/blob/main/images/img_programming.jpeg)
 
 ************
 
@@ -14,3 +14,5 @@ This repository was created as part of the Web Services and Applications assessm
 ## Getting Started
 
 This repository contains my assessment submissions for the module, showcasing the skills I have developed throughout the course in data analysis, as well as my tasks and project.
+
+[def]: images/img_programming.jpeg
