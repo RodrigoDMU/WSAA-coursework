@@ -3,7 +3,7 @@
 
 ## Web Services and Applications Module
 
-![Programming](WSAA-coursework/blob/main/images/img_programming.jpeg)
+![Programming](images/img_programming.jpeg)
 
 ************
 
