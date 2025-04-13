@@ -5,7 +5,7 @@
 # called `cso.json`.
 #
 # - Upload this program to the same repository you used for the first assignment;
-# - Save this assignment as `assignment03-cso.ipynb`;
+# - Save this assignment as `assignment03-cso.py`;
 # - This program should not be a long one;
 # - I don't need you to reformat or analyse the data in any way;
 # - It should be about 10ish lines long (I have not counted).
