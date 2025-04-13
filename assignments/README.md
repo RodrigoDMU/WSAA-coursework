@@ -43,7 +43,7 @@ I used [openincolab](https://openincolab.com/) to generate the following clickab
 
 *****
 
-**- Assignment 4: Risk**
+**- Assignment 4: Authentication**
 
 **Task description:** A program was written in Python that read a file from a repository called as [`assignment04-github.py`](https://github.com/RodrigoDMU/WSAA-coursework/blob/main/assignments/assignment04-github.py). The program then replaced all instances of the text "Andrew" with my name "Rodrigo". After making the changes, the program committed them and pushed the updated file back to the repository (authorization was required to perform this action).
 
