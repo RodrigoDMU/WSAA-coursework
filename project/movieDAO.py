@@ -29,7 +29,7 @@ class MovieDAO:
     def getAll(self):
         cursor = self.getcursor()
         sql="""SELECT id, title, minutes, year, category 
-               FROM actor"""
+               FROM movie"""
         cursor.execute(sql)
         results = cursor.fetchall()
         returnArray = []
