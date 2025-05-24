@@ -3,7 +3,7 @@
 
 ## Web Services and Applications Module
 
-![Programming](Images/img_programming.jpeg)
+![Programming](images/img_programming.jpeg)
 ************
 
 ## My Assessment Repository
@@ -20,7 +20,7 @@ This repository contains my [Big Project](https://github.com/RodrigoDMU/WSAA_big
 
 A RESTful API built with Flask for managing a music library. It allows you to **create**, **read**, **update**, and **delete** music entries from a MySQL database.
 
-![EventMusicListTable](Images/Event_Music_List_Table.png)
+![EventMusicList](images/Event_Music_List_Table.png)
 ******
 
 ### 🌍 Live App
